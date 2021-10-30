@@ -1,0 +1,9 @@
+img {
+  max-width: 20%;
+  max-height: 50%;
+}
+
+div {
+  float: center;
+  margin: 50px;
+}
